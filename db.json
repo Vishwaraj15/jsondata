@@ -1,0 +1,19 @@
+{
+  "department": [
+    {
+      "PKDept": 1,
+      "DeptName": "D1",
+      "IsActive": true
+    },
+    {
+      "PKDept": 2,
+      "DeptName": "D2",
+      "IsActive": true
+    },
+    {
+      "PKDept": 3,
+      "DeptName": "D3",
+      "IsActive": true
+    }
+  ]
+}
