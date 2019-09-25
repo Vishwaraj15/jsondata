@@ -15,5 +15,26 @@
       "DeptName": "D3",
       "IsActive": true
     }
-  ]
+  ],
+	"employee": [{
+			"PKEmpId": 1,
+			"EmpName": "E1",
+			"Salary": 1000,
+			"IsActive": true,
+			"FKDeptId": 1
+		},
+		{
+			"PKEmpId": 2,
+			"EmpName": "E2",
+			"Salary": 2000,
+			"IsActive": true,
+			"FKDeptId": 2
+		},
+		{
+			"PKEmpId": 3,
+			"EmpName": "E3",
+			"Salary": 3000,
+			"IsActive": true,
+			"FKDeptId": 3
+		}
 }
